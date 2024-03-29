@@ -2,7 +2,8 @@
 # 📚 [Learning-Pdf_Material-BTECH-CSE] - The Ultimate Learning Hub 🚀
 
 
-![Learning-Pdf_Material-BTECH-CSE](https://github.com/siddhu1919/Learning-Pdf_Material-BTECH-CSE/assets/85176765/61decb17-ac3a-4cec-96de-78c264f1e041)
+![Learning-Pdf_Material-BTECH-CSE banner](https://github.com/siddhu1919/Learning-Pdf_Material-BTECH-CSE/assets/85176765/7cd50abe-5e02-477e-bdc5-62d5c8ba369b)
+
 
 
 

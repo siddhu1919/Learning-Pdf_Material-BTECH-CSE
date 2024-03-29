@@ -7,7 +7,7 @@
 
 
 
-Welcome to **[Learning-Pdf_Material-BTECH-CSE]**, the one-stop 🛑 repository where learning knows no bounds! Whether you're a budding programmer 🌱, a seasoned coder 💻, or gearing up for your dream tech interview 🎯, you've come to the right place. Dive into our treasure trove 📦 of resources spanning numerous programming languages, cheat sheets, and interview questions tailored for various professions and languages.
+Welcome to **Learning-Pdf_Material-BTECH-CSE**, the one-stop 🛑 repository where learning knows no bounds! Whether you're a budding programmer 🌱, a seasoned coder 💻, or gearing up for your dream tech interview 🎯, you've come to the right place. Dive into our treasure trove 📦 of resources spanning numerous programming languages, cheat sheets, and interview questions tailored for various professions and languages.
 
 ## What's Inside 📂
 
@@ -16,7 +16,7 @@ Welcome to **[Learning-Pdf_Material-BTECH-CSE]**, the one-stop 🛑 repository w
 - **Interview Prep**: Conquer those technical interviews 💼 with our curated collection of questions & answers, tips, and strategies for different roles and technologies.
 - **And much more!**: We're constantly updating with new materials and subjects. So, keep an eye out for updates! 🌟
 
-## Why [Learning-Pdf_Material-BTECH-CSE]? 🤔
+## Why Learning-Pdf_Material-BTECH-CSE? 🤔
 
 - **Diverse Learning Materials**: A wide array of topics covered to ensure you find exactly what you need.
 - **Up-to-Date**: We're always on the lookout for the latest trends and updates in the tech world. Expect fresh materials regularly! 🔄
@@ -48,7 +48,7 @@ Happy Learning! 🎉
 
 ---
 
-**[siddhu1919]** © 2024. All rights reserved.
+**siddhu1919** © 2024. All rights reserved.
 ```
 
 Feel free to contribute to this repo !...

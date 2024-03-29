@@ -1,8 +1,9 @@
 ```markdown
 # 📚 [Learning-Pdf_Material-BTECH-CSE] - The Ultimate Learning Hub 🚀
 
-![Banner](https://yourimageurlhere.jpg)
-![Learning-Pdf_Material-BTECH-CSE](https://github.com/siddhu1919/Learning-Pdf_Material-BTECH-CSE/assets/85176765/59755dc2-c7bb-4857-9a13-c9e0fd383c10)
+
+![Learning-Pdf_Material-BTECH-CSE](https://github.com/siddhu1919/Learning-Pdf_Material-BTECH-CSE/assets/85176765/61decb17-ac3a-4cec-96de-78c264f1e041)
+
 
 
 Welcome to **[Learning-Pdf_Material-BTECH-CSE]**, the one-stop 🛑 repository where learning knows no bounds! Whether you're a budding programmer 🌱, a seasoned coder 💻, or gearing up for your dream tech interview 🎯, you've come to the right place. Dive into our treasure trove 📦 of resources spanning numerous programming languages, cheat sheets, and interview questions tailored for various professions and languages.
